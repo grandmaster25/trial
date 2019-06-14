@@ -3,4 +3,4 @@ print(val)
 if val > 5 :
 	print("good")
 else:		
-	print("bad")
+	print("very bad")
